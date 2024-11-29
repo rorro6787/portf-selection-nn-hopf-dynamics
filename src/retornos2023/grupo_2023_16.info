@@ -1,0 +1,14 @@
+Company,Location,Industry_gr,Market ,TICKER,S&P-ESG,R-ESG,ISS-ESG-AR,MSCI-ESG-AR,SUST-ESG RISK*-AR
+Vestas Wind Systems A/S,Denmark,3,CPH,VWS.CO,78,73,75.0,100.0,61.0
+"Rakuten Group, Inc.",Japan,16,JPX,4755.T,66,59,33.33,71.43,50.4
+Deutsche Post AG,Germany,21,GER,DHL.DE,71,79,50.0,85.71,69.6
+Hyundai Steel Company,Republic of Korea,12,KSC,004020.KS,77,78,33.33,28.57,31.2
+Las Vegas Sands Corp.,United States,5,NYQ,LVS,75,70,66.67,57.14,56.2
+"Samsung SDS Co.,Ltd.",Republic of Korea,18,KSC,018260.KS,85,70,33.33,71.43,63.6
+"Agilent Technologies, Inc.",United States,14,NYQ,A,54,88,41.67,85.71,72.8
+"Samsung Securities Co., Ltd.",Republic of Korea,6,KSC,016360.KS,76,80,33.33,85.71,44.2
+"Ono Pharmaceutical Co., Ltd.",Japan,14,JPX,4528.T,79,74,50.0,85.71,48.6
+eBay Inc.,United States,16,NMS,EBAY,73,69,50.0,71.43,64.8
+Diageo plc,United Kingdom,8,LSE ,DGE.L,82,80,50.0,100.0,61.4
+Amgen Inc.,United States,14,NMS,AMGN,54,76,58.33,85.71,56.0
+Tech Mahindra Limited,India,18,BSE,TECHM.BO,89,71,50.0,71.43,76.8

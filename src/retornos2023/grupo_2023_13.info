@@ -1,0 +1,14 @@
+Company,Location,Industry_gr,Market ,TICKER,S&P-ESG,R-ESG,ISS-ESG-AR,MSCI-ESG-AR,SUST-ESG RISK*-AR
+"Mega Financial Holding Co., Ltd.",Taiwan,2,TAI,2886.TW,84,80,33.33,85.71,63.6
+"Mitsubishi Estate Co., Ltd.",Japan,15,JPX,8802.T,72,72,33.33,71.43,66.2
+"Nomura Holdings, Inc.",Japan,6,JPX,8604.T,68,84,33.33,85.71,57.0
+Advanced Info Service Public Company Limited,Thailand,20,SET,ADVANC.BK,90,71,33.33,85.71,57.0
+"Hyundai Glovis Co., Ltd.",Republic of Korea,21,KSC,086280.KS,70,81,25.0,42.86,68.6
+"Hyundai Engineering & Construction Co., Ltd.",Republic of Korea,3,KSC,000725.KS,75,80,41.67,57.14,36.2
+Neste Oyj,Finland,7,HEL,NESTE.HE,82,79,58.33,100.0,61.0
+Yokogawa Electric Corporation,Japan,19,JPX,6841.T,78,80,50.0,85.71,74.8
+Olympus Corporation,Japan,9,JPX,7733.T,72,82,58.33,42.86,47.4
+Bancolombia S.A.,Colombia,2,BVC,BCOLOMBIA.CL,85,67,33.33,85.71,64.4
+Edwards Lifesciences Corporation,United States,9,NYQ,EW,75,70,58.33,85.71,62.8
+Vanguard International Semiconductor Corporation,Taiwan,17,TWO,5347.TWO,88,75,50.0,42.86,55.2
+STMicroelectronics N.V.,Switzerland,17,NYQ,STM,84,92,66.67,85.71,67.2

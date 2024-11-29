@@ -1,0 +1,14 @@
+Company,Location,Industry_gr,Market ,TICKER,S&P-ESG,R-ESG,ISS-ESG-AR,MSCI-ESG-AR,SUST-ESG RISK*-AR
+"The Williams Companies, Inc.",United States,7,NYQ,WMB,70,71,50.0,57.14,56.4
+British American Tobacco p.l.c.,United Kingdom,8,LSE ,BATS.L,85,87,41.67,57.14,34.0
+Stockland,Australia,15,ASX,SGP.AX,84,84,41.67,100.0,81.8
+National Australia Bank Limited,Australia,2,ASX,NAB.AX,84,87,41.67,71.43,59.4
+Komatsu Ltd.,Japan,3,JPX,6301.T,78,88,58.33,85.71,52.6
+Mirae Asset Securities Co. Ltd.,Republic of Korea,6,KSC,006805.KS,76,74,33.33,71.43,52.8
+Gen Digital Inc.,United States,18,NMS,GEN,51,78,50.0,85.71,66.2
+"Gilead Sciences, Inc.",United States,14,NMS,GILD,61,81,41.67,85.71,54.0
+Reckitt Benckiser Group plc,United Kingdom,10,LSE ,RKT.L,86,78,58.33,85.71,54.6
+Owens Corning,United States,3,NYQ,OC,88,95,58.33,85.71,61.8
+Cigna Corporation,United States,9,NYQ,CI,77,80,58.33,85.71,71.6
+"EDP - Energias de Portugal, S.A.",Portugal,22,LIS,EDP.LS,90,87,75.0,100.0,61.2
+Medtronic plc,United States,9,NYQ,MDT,65,75,58.33,57.14,54.0

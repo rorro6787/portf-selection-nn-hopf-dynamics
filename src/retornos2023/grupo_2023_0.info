@@ -1,0 +1,14 @@
+Company,Location,Industry_gr,Market ,TICKER,S&P-ESG,R-ESG,ISS-ESG-AR,MSCI-ESG-AR,SUST-ESG RISK*-AR
+HP Inc.,United States,19,NYQ,HPQ,88,80,75.0,85.71,78.4
+TotalEnergies SE,France,7,PAR,TTE.PA,77,82,58.33,71.43,45.4
+"Shiseido Company, Limited",Japan,10,JPX,4911.T,81,78,41.67,71.43,48.6
+Toto Ltd.,Japan,3,JPX,5332.T,79,74,50.0,85.71,65.4
+ITOCHU Corporation,Japan,3,JPX,8001.T,73,62,33.33,100.0,58.2
+AXA SA,France,11,PAR,CS.PA,91,81,50.0,100.0,67.2
+Siemens Aktiengesellschaft,Germany,3,GER,SIE.DE,81,87,58.33,85.71,43.0
+S&P Global Inc.,United States,6,NYQ,SPGI,89,87,58.33,85.71,74.0
+LIXIL Corporation,Japan,3,JPX,5938.T,82,85,41.67,85.71,62.6
+Gold Fields Limited,South Africa,12,JNB,GFI.JO ,79,79,58.33,85.71,46.8
+"Regeneron Pharmaceuticals, Inc.",United States,14,NMS,REGN,67,74,58.33,71.43,64.0
+"Iberdrola, S.A.",Spain,22,MCE,IBE.MC,87,85,58.33,100.0,56.2
+"Taishin Financial Holding Co., Ltd.",Taiwan,2,TAI,2887.TW,84,75,33.33,85.71,52.8

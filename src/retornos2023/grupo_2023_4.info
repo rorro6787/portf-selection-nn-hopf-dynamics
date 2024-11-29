@@ -1,0 +1,14 @@
+Company,Location,Industry_gr,Market ,TICKER,S&P-ESG,R-ESG,ISS-ESG-AR,MSCI-ESG-AR,SUST-ESG RISK*-AR
+Deutsche Telekom AG,Germany,20,GER,DTE.DE,94,86,58.33,57.14,62.6
+SGS SA,Switzerland,4,BER,SUVA.BE,87,86,58.33,100.0,63.0
+CP ALL Public Company Limited,Thailand,8,SET,CPALL.BK,87,61,33.33,71.43,56.2
+"Illumina, Inc.",United States,14,NMS,ILMN,75,69,41.67,85.71,62.8
+"Mondelez International, Inc.",United States,8,NMS,MDLZ,74,79,41.67,71.43,56.0
+"Hankook Tire & Technology Co., Ltd.",Republic of Korea,1,KSC,161390.KS,80,75,41.67,42.86,67.4
+Brambles Limited,Australia,4,ASX,BXB.AX,81,79,58.33,100.0,73.6
+POSCO Holdings Inc.,Republic of Korea,12,KSC,005490.KS,72,86,41.67,57.14,31.8
+Hana Financial Group Inc.,Republic of Korea,2,SAO,086790.KS,87,90,33.33,85.71,51.0
+H & M Hennes & Mauritz AB (publ),Sweden,16,STO,HM-B.ST,61,74,58.33,85.71,63.6
+"Delta Electronics, Inc.",Taiwan,19,TAI,2308.TW,85,73,58.33,85.71,64.0
+Jacobs Solutions Inc.,United States,4,NYQ,J,76,87,50.0,71.43,53.8
+"Waste Management, Inc.",United States,4,NYQ,WM,75,85,58.33,71.43,66.8

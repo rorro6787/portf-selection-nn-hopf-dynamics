@@ -1,0 +1,14 @@
+Company,Location,Industry_gr,Market ,TICKER,S&P-ESG,R-ESG,ISS-ESG-AR,MSCI-ESG-AR,SUST-ESG RISK*-AR
+"Mitsui & Co., Ltd.",Japan,3,JPX,8031.T,70,75,41.67,71.43,66.6
+Airports of Thailand Public Company Limited,Thailand,21,SET,AOT-R.BK,77,51,33.33,71.43,65.8
+"General Mills, Inc.",United States,8,NYQ,GIS,67,78,50.0,100.0,57.8
+"Hyundai Mobis Co.,Ltd",Republic of Korea,1,KSC,012330.KS,80,64,33.33,28.57,71.2
+BNP Paribas SA,France,2,PAR,BNP.PA,84,96,50.0,85.71,49.6
+Coca-Cola Europacific Partners PLC,United Kingdom,8,LSE ,CCEP.L,84,84,50.0,100.0,72.2
+"LG H&H Co., Ltd.",Republic of Korea,10,KSC,051900.KS,83,78,33.33,57.14,44.4
+ASR Nederland N.V.,Netherlands,11,AMS,ASRNL.AS,84,85,50.0,71.43,81.4
+"Fast Retailing Co., Ltd.",Japan,16,JPX,9983.T,58,84,41.67,85.71,68.4
+Mitsubishi Chemical Group Corporation,Japan,12,JPX,4188.T,81,64,33.33,85.71,34.8
+"Host Hotels & Resorts, Inc.",United States,15,NMS,HST,73,86,41.67,71.43,73.4
+Fresenius Medical Care AG & Co. KGaA,Germany,9,FRA,FME.F,72,87,58.33,71.43,71.2
+Whirlpool Corporation,United States,4,NYQ,WHR,68,81,41.67,71.43,61.8

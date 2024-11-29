@@ -1,0 +1,14 @@
+Company,Location,Industry_gr,Market ,TICKER,S&P-ESG,R-ESG,ISS-ESG-AR,MSCI-ESG-AR,SUST-ESG RISK*-AR
+Chailease Holding Company Limited,Taiwan,5,TAI,5871.TW,81,90,33.33,71.43,62.6
+Infineon Technologies AG,Germany,17,GER,IFX.DE,83,82,50.0,85.71,70.4
+DaVita Inc.,United States,9,NYQ,DVA,72,76,50.0,85.71,54.8
+"NetEase, Inc.",China,13,HKG,9999.HK,49,78,33.33,71.43,64.6
+"Samsung Biologics Co.,Ltd.",Republic of Korea,14,KSC,207940.KS,65,78,41.67,28.57,59.6
+Innolux Corporation,Taiwan,19,TAI,3481.TW,78,82,58.33,57.14,68.8
+Ecolab Inc.,United States,12,NYQ,ECL,81,77,50.0,100.0,60.4
+"Samsung SDI Co., Ltd.",Republic of Korea,19,KSC,006400.KS,77,83,50.0,71.43,60.0
+Temenos AG,Switzerland,18,CXE,TEMN.SW,79,73,58.33,100.0,77.0
+Dexus,Australia,15,ASX,DXS.AX,89,93,50.0,100.0,86.4
+"Stanley Black & Decker, Inc.",United States,3,NYQ,SWK,78,83,50.0,57.14,51.0
+Rolls-Royce Holdings plc,United Kingdom,3,LSE ,RR.L,71,76,41.67,71.43,50.4
+Linde plc,United Kingdom,12,LSE ,0M2B.L,81,92,50.0,71.43,51.4

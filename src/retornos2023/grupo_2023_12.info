@@ -1,0 +1,14 @@
+Company,Location,Industry_gr,Market ,TICKER,S&P-ESG,R-ESG,ISS-ESG-AR,MSCI-ESG-AR,SUST-ESG RISK*-AR
+"Yum China Holdings, Inc.",China,5,HKG,9987.HK,74,91,33.33,85.71,61.0
+"Banco Bilbao Vizcaya Argentaria, S.A.",Spain,2,MCE,BBVA.MC,86,92,41.67,85.71,53.6
+"Sekisui Chemical Co., Ltd.",Japan,4,JPX,4204.T,76,83,41.67,85.71,34.2
+Keppel Corporation Limited,Singapore,3,SES,BN4.SI,77,72,33.33,100.0,20.4
+Warehouses De Pauw NV,Belgium,15,BRU,WDP.BR,75,62,41.67,71.43,77.4
+Assicurazioni Generali S.p.A.,Italy,11,MIL,G.MI,90,94,50.0,100.0,64.6
+Transurban Group,Australia,21,ASX,TCL.AX,76,80,41.67,100.0,82.4
+Bureau Veritas SA,France,4,PAR,BVI.PA,85,80,50.0,85.71,79.8
+Kering SA,France,5,PAR,KER.PA,84,80,66.67,100.0,78.8
+"Salesforce, Inc.",United States,18,NYQ,CRM,54,73,58.33,85.71,70.2
+China Development Financial Holding Corporation,Taiwan,11,TAI,2883.TW,88,72,33.33,57.14,58.6
+The Siam Cement Public Company Limited,Thailand,12,SET,SCC.BK,89,84,41.67,85.71,57.8
+Moncler S.p.A.,Italy,4,MIL,MONC.MI,91,86,41.67,71.43,79.8

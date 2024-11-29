@@ -1,0 +1,14 @@
+Company,Location,Industry_gr,Market ,TICKER,S&P-ESG,R-ESG,ISS-ESG-AR,MSCI-ESG-AR,SUST-ESG RISK*-AR
+AbbVie Inc.,United States,14,NYQ,ABBV,75,83,58.33,57.14,40.2
+"Endesa, S.A.",Spain,22,MCE,ELE.MC,89,86,66.67,100.0,67.2
+Banco Bradesco S.A.,Brazil,2,SAO,BBDC3.SA,83,80,41.67,71.43,56.0
+WIN Semiconductors Corp.,Taiwan,17,TWO,3105.TWO,84,48,41.67,100.0,51.4
+Moody's Corporation,United States,6,NYQ,MCO,71,71,50.0,85.71,69.0
+"Nippon Prologis REIT, Inc.",Japan,15,JPX,3283.T,78,44,33.33,57.14,82.6
+Allianz SE,Germany,11,FRA,ALV.F,89,92,50.0,85.71,73.4
+NTT DATA Corporation,Japan,18,JPX,9613.T,84,60,50.0,71.43,62.2
+Hilton Worldwide Holdings Inc.,United States,5,NYQ,HLT,73,81,50.0,85.71,64.8
+"Fubon Financial Holding Co., Ltd.",Taiwan,11,TAI,2881.TW,88,83,41.67,85.71,78.6
+"VMware, Inc.",United States,18,NYQ,VMW,62,54,58.33,85.71,68.2
+abrdn plc,United Kingdom,5,LSE ,ABDN.L,72,43,41.67,100.0,66.8
+President Chain Store Corporation,Taiwan,8,TAI,2912.TW,83,76,25.0,71.43,52.6

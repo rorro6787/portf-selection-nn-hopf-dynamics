@@ -1,0 +1,14 @@
+Company,Location,Industry_gr,Market ,TICKER,S&P-ESG,R-ESG,ISS-ESG-AR,MSCI-ESG-AR,SUST-ESG RISK*-AR
+Unilever PLC,Netherlands,10,AMS,UNA.AS,77,92,58.33,85.71,50.8
+OMV Aktiengesellschaft,Austria,7,VIE,OMV.VI,73,84,58.33,100.0,38.4
+Veolia Environnement S.A.,France,22,PAR,VIE.PA,83,78,58.33,71.43,58.2
+Sysmex Corporation,Japan,9,JPX,6869.T,74,67,58.33,100.0,50.6
+Teck Resources Limited,Canada,12,TOR,TECK-A.TO,81,78,58.33,85.71,59.0
+Novartis AG,Switzerland,14,EBS,NOVN.SW,80,86,66.67,85.71,67.6
+Intesa Sanpaolo S.p.A.,Italy,2,MIL,ISP.MI,83,91,50.0,85.71,75.6
+"Daiichi Sankyo Company, Limited",Japan,14,JPX,4568.T,79,75,16.67,85.71,52.6
+Newmont Corporation,United States,12,NYQ,NEM,83,88,58.33,85.71,59.0
+Indorama Ventures Public Company Limited,Thailand,12,SET,IVL.BK,80,71,50.0,57.14,52.4
+Woodside Energy Group Ltd,Australia,7,ASX,WDS.AX,74,74,50.0,100.0,38.2
+"Cisco Systems, Inc.",United States,19,NMS,CSCO,78,84,58.33,85.71,72.2
+PTT Global Chemical Public Company Limited,Thailand,12,SET,PTTGC.BK,89,61,41.67,57.14,56.2

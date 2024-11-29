@@ -1,0 +1,14 @@
+Company,Location,Industry_gr,Market ,TICKER,S&P-ESG,R-ESG,ISS-ESG-AR,MSCI-ESG-AR,SUST-ESG RISK*-AR
+Sands China Ltd.,China,5,HKG,1928.HK,19,86,66.67,71.43,62.2
+Leonardo S.p.a.,Italy,3,MIL,LDO.MI,87,88,41.67,85.71,50.0
+Cummins Inc.,United States,3,NYQ,CMI,73,69,58.33,100.0,51.6
+Abbott Laboratories,United States,9,NYQ,ABT,81,83,50.0,71.43,50.0
+Anglo American plc,United Kingdom,12,LSE ,AAL.L,79,83,66.67,71.43,53.8
+Kasikornbank Public Company Limited,Thailand,2,SET,KBANK.BK,86,68,25.0,85.71,58.2
+Swire Properties Limited,Hong Kong,15,HKG,1972.HK,83,68,50.0,100.0,78.4
+"Banco Santander, S.A.",Spain,2,MCE,SAN.MC,83,93,33.33,85.71,53.6
+SK Inc.,Republic of Korea,3,KSC,034730.KS,82,75,33.33,100.0,26.6
+Publicis Groupe S.A.,France,13,PAR,PUB.PA,62,85,50.0,71.43,79.4
+Hindalco Industries Limited,India,12,BSE,HINDALCO.BO,83,82,41.67,57.14,36.8
+Itaú Unibanco Holding S.A.,Brazil,2,SAO,ITUB3.SA,85,88,41.67,71.43,49.8
+Central Pattana Public Company Limited,Thailand,15,SET,CPN.BK,81,70,33.33,57.14,67.8

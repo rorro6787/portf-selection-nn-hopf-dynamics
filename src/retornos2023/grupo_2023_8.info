@@ -1,0 +1,14 @@
+Company,Location,Industry_gr,Market ,TICKER,S&P-ESG,R-ESG,ISS-ESG-AR,MSCI-ESG-AR,SUST-ESG RISK*-AR
+"Nomura Research Institute, Ltd.",Japan,18,JPX,4307.T,85,68,50.0,100.0,69.0
+UnitedHealth Group Incorporated,United States,9,NYQ,UNH,79,77,50.0,85.71,69.4
+"WuXi AppTec Co., Ltd.",China,14,HKG,2359.HK,65,77,33.33,85.71,70.0
+Microsoft Corporation,United States,18,NMS,MSFT ,56,90,58.33,100.0,69.8
+NN Group N.V.,Netherlands,11,AMS,NN.AS,80,81,50.0,85.71,63.8
+Colgate-Palmolive Company,United States,10,NYQ,CL,78,91,58.33,85.71,44.4
+"CBRE Group, Inc.",United States,15,NYQ,CBRE,79,85,41.67,100.0,84.0
+Bridgestone Corporation,Japan,1,JPX,5108.T,79,78,41.67,85.71,77.4
+"First Financial Holding Co., Ltd.C",Taiwan,2,TAI,2892.TW,87,75,41.67,100.0,54.8
+Klabin S.A.,Brazil,12,SAO,KLBN3.SA,86,63,58.33,42.86,73.4
+Infosys Limited,India,18,NSI,INFY.NS,79,92,58.33,85.71,73.8
+The Toronto-Dominion Bank,Canada,2,TOR,TD.TO,78,75,41.67,85.71,60.4
+Sodexo S.A.,France,5,PAR,SW.PA,69,79,33.33,57.14,55.2

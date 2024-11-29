@@ -1,0 +1,14 @@
+Company,Location,Industry_gr,Market ,TICKER,S&P-ESG,R-ESG,ISS-ESG-AR,MSCI-ESG-AR,SUST-ESG RISK*-AR
+Engie SA,France,22,PAR,ENGI.PA,81,82,58.33,71.43,40.8
+Coca-Cola HBC AG,Switzerland,8,LSE ,CCH.L,94,89,50.0,100.0,73.0
+General Motors Company,United States,1,NYQ,GM,69,80,41.67,57.14,43.0
+SAP SE,Germany,18,GER,SAP.DE,80,91,66.67,100.0,74.6
+Kia Corporation,Republic of Korea,1,KSC,000270.KS,65,75,33.33,28.57,51.0
+Amorepacific Corporation,Republic of Korea,10,KSC,090430.KS,81,73,41.67,71.43,28.0
+Wendel,France,6,PAR,MF.PA,72,79,50.0,85.71,82.2
+Kesko Oyj,Finland,8,HEL,KESKOB.HE,79,79,41.67,100.0,70.4
+PETRONAS Chemicals Group Berhad,Malaysia,12,KLS,5183.KL,79,66,33.33,28.57,54.8
+Schneider Electric S.E.,France,3,PAR,SU.PA,90,78,66.67,100.0,77.4
+Falabella S.A.,Chile,16,SGO,FALABELLA.SN,71,80,25.0,57.14,61.0
+Lockheed Martin Corporation,United States,3,NYQ,LMT,69,71,41.67,85.71,40.8
+Baxter International Inc.,United States,9,NYQ,BAX,70,86,58.33,71.43,52.8
